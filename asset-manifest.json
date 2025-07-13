@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a806ac7.css",
+    "main.js": "/static/js/main.821dbaa6.js",
+    "static/js/453.44abef82.chunk.js": "/static/js/453.44abef82.chunk.js",
+    "static/media/podium_display_4.jpg": "/static/media/podium_display_4.2b84b7743aaf0439ad79.jpg",
+    "index.html": "/index.html",
+    "main.2a806ac7.css.map": "/static/css/main.2a806ac7.css.map",
+    "main.821dbaa6.js.map": "/static/js/main.821dbaa6.js.map",
+    "453.44abef82.chunk.js.map": "/static/js/453.44abef82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a806ac7.css",
+    "static/js/main.821dbaa6.js"
+  ]
+}
